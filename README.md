@@ -37,7 +37,8 @@
 
 ### Output:
 
-![Screenshot 2024-11-27 113458](https://github.com/user-attachments/assets/ef9479a0-a3fc-4e9f-b63c-4e3576f11656)
+![Screenshot 2024-11-27 114815](https://github.com/user-attachments/assets/471dd425-596e-49ed-909c-62fbfcbbe414)
+
 
 
 ### Name:M.Chandru
