@@ -32,11 +32,16 @@
 
 ## Input:
 
+![Screenshot 2024-11-27 114321](https://github.com/user-attachments/assets/5bba7921-17c6-48b6-8b3f-368d59f2c20d)
+
+
 ### Output:
 
+![Screenshot 2024-11-27 113458](https://github.com/user-attachments/assets/ef9479a0-a3fc-4e9f-b63c-4e3576f11656)
 
-### Name:
-### Register Number:
+
+### Name:M.Chandru
+### Register Number: 24900224
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
