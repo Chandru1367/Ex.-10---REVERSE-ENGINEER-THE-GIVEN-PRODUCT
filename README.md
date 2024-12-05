@@ -37,14 +37,9 @@
 
 ### Output:
 
-![Clock ](https://github.com/user-attachments/assets/c50a0a48-a325-4077-bba5-3ee1a05805df)
-
-
-
-
 ![Clock 1](https://github.com/user-attachments/assets/dbaf485b-13c9-422a-99ab-d9600c503fd0)
 
-
+![Clock ](https://github.com/user-attachments/assets/c50a0a48-a325-4077-bba5-3ee1a05805df)
 
 
 ### Name:M.Chandru
